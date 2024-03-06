@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2.csproj|c:\\users\\user\\source\\repos\\eterna mvc-connectiondbcontext-task2\\eterna mvc-connectiondbcontext-task2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2.csproj|solutionrelative:eterna mvc-connectiondbcontext-task2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2.csproj|c:\\users\\user\\source\\repos\\eterna mvc-connectiondbcontext-task2\\eterna mvc-connectiondbcontext-task2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2.csproj|solutionrelative:eterna mvc-connectiondbcontext-task2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2.csproj|c:\\users\\user\\source\\repos\\eterna mvc-connectiondbcontext-task2\\eterna mvc-connectiondbcontext-task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2.csproj|solutionrelative:eterna mvc-connectiondbcontext-task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2.csproj|c:\\users\\user\\source\\repos\\eterna mvc-connectiondbcontext-task2\\eterna mvc-connectiondbcontext-task2\\dal\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2.csproj|solutionrelative:eterna mvc-connectiondbcontext-task2\\dal\\eternadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2.csproj|c:\\users\\user\\source\\repos\\eterna mvc-connectiondbcontext-task2\\eterna mvc-connectiondbcontext-task2\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2.csproj|solutionrelative:eterna mvc-connectiondbcontext-task2\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2.csproj|c:\\users\\user\\source\\repos\\eterna mvc-connectiondbcontext-task2\\eterna mvc-connectiondbcontext-task2\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2.csproj|solutionrelative:eterna mvc-connectiondbcontext-task2\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2.csproj|c:\\users\\user\\source\\repos\\eterna mvc-connectiondbcontext-task2\\eterna mvc-connectiondbcontext-task2\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2.csproj|solutionrelative:eterna mvc-connectiondbcontext-task2\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2.csproj|c:\\users\\user\\source\\repos\\eterna mvc-connectiondbcontext-task2\\eterna mvc-connectiondbcontext-task2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CD7E624-2DE8-48B5-8ECA-9D4BF2F45304}|Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2.csproj|solutionrelative:eterna mvc-connectiondbcontext-task2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Eterna MVC-ConnectionDBcontext-task2\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2\\Models\\Client.cs",
+              "RelativeToolTip": "Eterna MVC-ConnectionDBcontext-task2\\Models\\Client.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T20:28:19.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Eterna MVC-ConnectionDBcontext-task2\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2\\Models\\Service.cs",
+              "RelativeToolTip": "Eterna MVC-ConnectionDBcontext-task2\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T20:14:34.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "Eterna MVC-ConnectionDBcontext-task2\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "Eterna MVC-ConnectionDBcontext-task2\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:17:30.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Eterna MVC-ConnectionDBcontext-task2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Eterna MVC-ConnectionDBcontext-task2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T17:12:26.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EternaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2\\DAL\\EternaDbContext.cs",
+              "RelativeDocumentMoniker": "Eterna MVC-ConnectionDBcontext-task2\\DAL\\EternaDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2\\DAL\\EternaDbContext.cs",
+              "RelativeToolTip": "Eterna MVC-ConnectionDBcontext-task2\\DAL\\EternaDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:45:18.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eterna MVC-ConnectionDBcontext-task2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Eterna MVC-ConnectionDBcontext-task2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T15:09:54.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Eterna MVC-ConnectionDBcontext-task2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Eterna MVC-ConnectionDBcontext-task2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:09:47.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2\\Program.cs",
+              "RelativeDocumentMoniker": "Eterna MVC-ConnectionDBcontext-task2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Eterna MVC-ConnectionDBcontext-task2\\Eterna MVC-ConnectionDBcontext-task2\\Program.cs",
+              "RelativeToolTip": "Eterna MVC-ConnectionDBcontext-task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:05:49.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
